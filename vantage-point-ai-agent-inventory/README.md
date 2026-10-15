@@ -1,6 +1,9 @@
 <p align="center"><img src="assets/banner.jpg" alt="Project 01 — AI Use-Case & AI Agent Inventory — Vantage Point Insurance" width="100%"></p>
 
 # AI Use-Case Inventory & AI Agent Inventory
+
+<img width="1600" height="520" alt="vantage-point-ai-agent-inventory-banner" src="https://github.com/user-attachments/assets/69c13d8c-983b-4585-ba29-cba8deb1ccdb" />
+
 ### Vantage Point Insurance — Establishing the system of record for every AI system in the enterprise
 
 ![Domain](https://img.shields.io/badge/Domain-AI%20Governance-0bbec8) ![Sector](https://img.shields.io/badge/Sector-P%26C%20Insurance-1f2a44) ![ISO 42001](https://img.shields.io/badge/ISO%2FIEC-42001-1f2a44) ![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-MAP%20%7C%20GOVERN%201.6-1f2a44) ![Status](https://img.shields.io/badge/Status-Complete-2ea043)
@@ -127,5 +130,3 @@ Vantage Point Insurance is a fictional organisation. All systems, people, vendor
 
 ---
 
-**Augustine Ozor** — AI Governance & Cybersecurity GRC · Doha, Qatar
-[github.com/AugustineOzor](https://github.com/AugustineOzor) · augustineozor@gmail.com
