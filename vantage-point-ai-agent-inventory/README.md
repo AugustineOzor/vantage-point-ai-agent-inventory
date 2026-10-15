@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/banner.jpg" alt="Project 01 — AI Use-Case & AI Agent Inventory — Vantage Point Insurance" width="100%"></p>
-
 # AI Use-Case Inventory & AI Agent Inventory
 
 <img width="1600" height="520" alt="vantage-point-ai-agent-inventory-banner" src="https://github.com/user-attachments/assets/69c13d8c-983b-4585-ba29-cba8deb1ccdb" />
